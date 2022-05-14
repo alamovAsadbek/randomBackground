@@ -1,0 +1,6 @@
+.outText{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Lato', sans-serif;
+}
